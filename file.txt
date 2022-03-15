@@ -1,2 +1,4 @@
 "My first line in project" 
 "Paris is the capital of France"
+check staged changes for file.txt
+check unstaged changes for file.txt
